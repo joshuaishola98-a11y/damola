@@ -95,15 +95,6 @@ nav a:hover {
   text-decoration: none;
 }
 
-.primary {
-  background: #c9a44c;
-  color: black;
-}
-
-.primary:hover {
-  opacity: 0.85;
-}
-
 .secondary {
   border: 1px solid #c9a44c;
   color: white;
@@ -165,7 +156,7 @@ section {
 }
 
 .gallery-item {
-  height: 300px;
+  height: 500px;
   background: #222;
   border-radius: 20px;
   overflow: hidden;
